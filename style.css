@@ -21,8 +21,8 @@ body{
         height: 90vh;
     }
     #changeColorBtn{
-        font-size: 30px;
-        padding: 20px;
+        font-size: 20px;
+        padding: 10px;
     }
 } 
 #changeColorBtn{
